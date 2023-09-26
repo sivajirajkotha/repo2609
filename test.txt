@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 added information from master branch
+=======
+added information from checng branch
+>>>>>>> cheng
